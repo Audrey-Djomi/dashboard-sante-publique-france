@@ -1,0 +1,12 @@
+Nous avons collecté nos données sur le site officiel:
+https://www.data.gouv.fr/datasets/donnees-hospitalieres-relatives-a-lepidemie-de-covid-19
+
+Le choix des datasets a été porté sur:
+
+covid-hospit-2023-03-31-18h01.csv
+
+nous pourrions ainsi varier nos observations (hospitalisations, réanimations, décès, retours à domicile,...)
+de même ressortir nos différents KPI et réaliser nos visualisations sur Power BI
+
+et metadonnees-sexe.csv qui nous permettra d'expliquer la correspondance des chiffres selon sexe. 
+
