@@ -10,3 +10,33 @@ de même ressortir nos différents KPI et réaliser nos visualisations sur Power
 
 et metadonnees-sexe.csv qui nous permettra d'expliquer la correspondance des chiffres selon sexe. 
 
+Présentation du dataset
+
+- Le dataset contient 338 245 observations.
+- 10 variables
+- Les données couvrent 102 codes départementaux.
+- La période s'étend du 18 mars 2020 au 31 mars 2023.
+
+Les indicateurs étudiés sont (nos colonnes):
+
+Colonne	        Signification
+
+dep	            Département
+sexe	        Sexe (0=tous, 1=hommes, 2=femmes)
+jour	        Date
+hosp	        Nombre d'hospitalisés
+rea	            Nombre en réanimation
+HospConv	    Hospitalisation conventionnelle
+SSR_USLD	    Soins de suite et longue durée
+autres	        Autres prises en charge
+rad	            Retours à domicile (guérisons)
+dc	            Décès
+
+Le jeu de données couvre 102 codes départementaux.
+
+Ce nombre peut sembler surprenant puisque la France compte généralement 101 départements. Cette différence s'explique par le fait que les données distinguent la Corse en deux départements administratifs :
+
+- 2A : Corse-du-Sud
+- 2B : Haute-Corse
+
+Ces deux codes sont comptabilisés séparément dans le jeu de données, ce qui conduit à un total de 102 codes départementaux.

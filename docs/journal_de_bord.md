@@ -9,3 +9,6 @@
 - Chargement des données avec Pandas
 - Vérification du chemin d'accès au fichier
 - Début de l'exploration du dataset
+
+## Jour 3 
+
