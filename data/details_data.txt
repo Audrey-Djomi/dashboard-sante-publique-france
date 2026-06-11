@@ -39,4 +39,7 @@ Ce nombre peut sembler surprenant puisque la France compte généralement 101 d�
 - 2A : Corse-du-Sud
 - 2B : Haute-Corse
 
-Ces deux codes sont comptabilisés séparément dans le jeu de données, ce qui conduit à un total de 102 codes départementaux.
+Ces deux codes sont comptabilisés séparément dans le jeu de données, ce qui conduit à un total de 102 codes départementaux.### Observations
+
+- Les indicateurs principaux (hospitalisations, réanimations, décès, retours à domicile) sont complets.
+- Les données semblent adaptées à la création d'un dashboard de suivi de l'évolution de la pandémie.
