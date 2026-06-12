@@ -43,3 +43,6 @@ Ces deux codes sont comptabilisés séparément dans le jeu de données, ce qui 
 
 - Les indicateurs principaux (hospitalisations, réanimations, décès, retours à domicile) sont complets.
 - Les données semblent adaptées à la création d'un dashboard de suivi de l'évolution de la pandémie.
+- aucun doublon recensé
+- Les variables HospConv, SSR_USLD et autres n'étaient pas renseignées au début de la pandémie. 
+- Les valeurs manquantes ont été conservées afin de ne pas introduire de biais.

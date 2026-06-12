@@ -27,4 +27,12 @@
   - HospConv
   - SSR_USLD
   - autres
-  
+## Jour 4: Conclusions provisoires de l'exploration
+- Les indicateurs principaux (hosp, rea, rad, dc) sont complets.
+- Trois variables présentent environ 33 % de valeurs manquantes.
+- Une analyse complémentaire est nécessaire pour comprendre l'origine de ces valeurs manquantes avant toute opération de nettoyage.
+- début du nettoyage
+- préparer le notebook de nettoyage
+- La colonne jour a été convertie au format datetime.
+- Aucun doublon
+- Aucun doublon détecté.
