@@ -36,3 +36,9 @@
 - La colonne jour a été convertie au format datetime.
 - Aucun doublon
 - Aucun doublon détecté.
+
+## Jour 5: fin exploration
+- résolution du problème d'environnement Python
+- valeurs manquantes liées à un changement de collecte
+- vérification des types de nos données
+- export de notre dataset clean dans notre repertoire data.
