@@ -42,3 +42,8 @@
 - valeurs manquantes liées à un changement de collecte
 - vérification des types de nos données
 - export de notre dataset clean dans notre repertoire data.
+
+## Jour 6: début analyse de nos données
+- mise à jour de nos fichiers exploration et nettoyage
+- début de l'analyse dans notre fichier analyse
+- séparation de notre df selon les sexes 0: hommes + femmes d'une part et 1: hommes et 2: femmes d'autres part afin de réaliser des analysess globaux et selon les sexes repectivement.
