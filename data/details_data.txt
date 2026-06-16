@@ -50,3 +50,25 @@ Ces deux codes sont comptabilisés séparément dans le jeu de données, ce qui 
 - Les valeurs manquantes ont été conservées afin de ne pas introduire de biais.
 - notre nouveau dataset a été conservée pour les prochaines analyses.
 - sexe : 0 représente femmes + hommes ; 1: hommes et 2: femmes
+
+Nous avons 2 df actuellement en fonction du besoin: 
+df_total : 113 118 lignes et 10 colonnes qui contient les sexe 0
+df_sex  : 225 127 lignes et 10 colonnes qui contient les sexes 1 et 2
+
+Nous utiliserons nos df de cette manière:
+df_total → analyse nationale et départementale
+df_sex → analyse hommes/femmes
+
+
+### Attention à une limite méthodologique observée
+
+Les variables dc et rad semblent être des variables cumulées.
+
+Donc : df.groupby("jour")["dc"].sum() ne mesure pas les décès du jour mais plutôt :
+
+les décès cumulés observés à cette date.
+
+Cette remarque sera très importante lorsque nous construirons les KPI Power BI.
+
+### Nos prmières analyses montrent que 
+Les territoires fortement urbanisés ont subi la plus forte pression hospitalière au cours de la période étudiée.

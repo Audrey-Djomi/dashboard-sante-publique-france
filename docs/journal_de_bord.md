@@ -46,4 +46,6 @@
 ## Jour 6: début analyse de nos données
 - mise à jour de nos fichiers exploration et nettoyage
 - début de l'analyse dans notre fichier analyse
-- séparation de notre df selon les sexes 0: hommes + femmes d'une part et 1: hommes et 2: femmes d'autres part afin de réaliser des analysess globaux et selon les sexes repectivement.
+- séparation de notre df selon les sexes 0: hommes + femmes d'une part et 1: hommes et 2: femmes d'autres part afin de réaliser des analyses globaux et selon les sexes repectivement.
+- nous avons ressorti df_total et df_sex
+- Les variables dc et rad semblent être des variables cumulées.
