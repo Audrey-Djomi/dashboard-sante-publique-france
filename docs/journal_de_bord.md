@@ -49,3 +49,4 @@
 - séparation de notre df selon les sexes 0: hommes + femmes d'une part et 1: hommes et 2: femmes d'autres part afin de réaliser des analyses globaux et selon les sexes repectivement.
 - nous avons ressorti df_total et df_sex
 - Les variables dc et rad semblent être des variables cumulées.
+- debut analyses graphiques
