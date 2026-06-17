@@ -57,3 +57,40 @@
  - les pics en réanimation
  - le jour et l'effectif des pics nationaux.
  - récupérer le dataset kpi_total_jour pour l'analyse BI constituer des hosp, rea, dc et rad
+
+## Analyse descriptive avancée
+
+### Analyse temporelle
+
+L'évolution des hospitalisations et des admissions en réanimation a permis d'identifier plusieurs vagues épidémiques entre 2020 et 2023.
+
+Le pic national d'hospitalisation a été observé le 16 novembre 2020 avec 33 466 patients hospitalisés simultanément.
+
+Le pic national de réanimation a été observé le 8 avril 2020 avec 7 019 patients simultanément admis en réanimation.
+
+Les pics d'hospitalisation et de réanimation ne sont pas observés à la même période, suggérant que la première vague a généré proportionnellement davantage de formes graves.
+
+### Analyse par sexe
+
+Les femmes représentent : 54 % des hospitalisations
+
+Les hommes représentent :
+
+63 % des admissions en réanimation
+57 % des décès
+
+Ces résultats suggèrent que les hommes ont davantage été touchés par les formes graves de la maladie.
+
+#### Analyse géographique
+
+Les départements les plus touchés sont :
+
+Paris (75)
+Hauts-de-Seine (92)
+Val-de-Marne (94)
+Seine-Saint-Denis (93)
+Nord (59)
+Rhône (69)
+Bouches-du-Rhône (13)
+
+Les zones urbaines fortement peuplées ont subi la plus forte pression hospitalière.
