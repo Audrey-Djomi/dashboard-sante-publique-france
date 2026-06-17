@@ -71,6 +71,7 @@ les décès cumulés observés à cette date.
 Cette remarque sera très importante lorsque nous construirons les KPI Power BI.
 
 ### Nos premières analyses montrent que 
+
 Les territoires fortement urbanisés ont subi la plus forte pression hospitalière au cours de la période étudiée.
 Hospitalisation: Très concentrée en Île-de-France.
 Réanimation: Encore plus concentrée.
@@ -78,3 +79,16 @@ Décès: Plus répartis sur le territoire.
 
 Malgré des niveaux d'hospitalisation encore élevés en 2022, les admissions en réanimation diminuent fortement, 
 traduisant une meilleure prise en charge et une moindre gravité des formes prises en charge.
+
+
+### suite des analyses
+
+Après le calcul des moyennes et des pics on peut voir une très forte vague brutale en 2020.
+tandis qu'une pression plus durable mais moins extrême en 2022.
+
+Le nombre maximal d'hospitalisations a été observé le 16/11/2020 avec 33 466 patients hospitalisés simultanément en France.
+tandis que 
+Le nombre maximal au service réanimation a été observé le 08/04/2020 avec 7 019 patients en réanimation simultanément dans tous les départements de France.
+
+### pour la suite de l'analyse sur BI, nous allons:
+récupérer le dataset kpi_total_jour pour l'analyse BI constituer des hosp, rea, dc et rad

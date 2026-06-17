@@ -50,3 +50,10 @@
 - nous avons ressorti df_total et df_sex
 - Les variables dc et rad semblent être des variables cumulées.
 - debut analyses graphiques
+
+## Jour 7: bonne avancer de l'analyse 
+ - ressortir les pics moyen d'hospitalisation
+ - les pics moyen en réanimation
+ - les pics en réanimation
+ - le jour et l'effectif des pics nationaux.
+ - récupérer le dataset kpi_total_jour pour l'analyse BI constituer des hosp, rea, dc et rad
