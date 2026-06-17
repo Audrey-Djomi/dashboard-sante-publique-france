@@ -90,5 +90,18 @@ Le nombre maximal d'hospitalisations a été observé le 16/11/2020 avec 33 466 
 tandis que 
 Le nombre maximal au service réanimation a été observé le 08/04/2020 avec 7 019 patients en réanimation simultanément dans tous les départements de France.
 
+Analyse des pics hospitaliers
+
+Le nombre maximal d'hospitalisations a été observé le 16 novembre 2020 avec 33 466 patients hospitalisés simultanément sur l'ensemble du territoire français.
+
+Ce résultat confirme l'intensité de la deuxième vague épidémique de l'automne 2020, qui a fortement mobilisé les capacités hospitalières françaises.
+
+Analyse des pics de réanimation
+
+Le nombre maximal de patients en réanimation a été observé le 8 avril 2020 avec 7 019 patients simultanément admis en réanimation.
+
+Ce pic correspond à la première vague de la pandémie et représente la période de plus forte pression sur les services de soins critiques.
+
+
 ### pour la suite de l'analyse sur BI, nous allons:
 récupérer le dataset kpi_total_jour pour l'analyse BI constituer des hosp, rea, dc et rad
