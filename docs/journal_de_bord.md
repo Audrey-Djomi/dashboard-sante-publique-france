@@ -94,3 +94,12 @@ Rhône (69)
 Bouches-du-Rhône (13)
 
 Les zones urbaines fortement peuplées ont subi la plus forte pression hospitalière.
+
+## Jour 8: Dashboard (Disponible bientôt) 
+- importation des tables générées (annuelle, evolution, sexe et departements) dans le fichier analyse vers notre Power BI 
+- mise en forme des différentes tables: vérifier les types des données, puis les tranformer  et changement si nécessaire, suppression des colonnes inutiles
+- début sortie des KPI dans power BI : Covid-19 en France Vue d'ensemble (2020-2023)
+- debut réalisation des graphiques 
+    - Répartition géographique des hospitalisations
+    - Impact du Covid-19 selon le sexe
+    - Comparaison des vagues épidémiques 
