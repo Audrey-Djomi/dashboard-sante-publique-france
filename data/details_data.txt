@@ -108,3 +108,6 @@ les vagues suivantes ont provoqué davantage d'hospitalisations, mais proportion
 
 ### pour la suite de l'analyse sur BI, nous allons:
 récupérer le dataset kpi_total_jour pour l'analyse BI constituer des hosp, rea, dc et rad
+
+Les variables HospConv, SSR_USLD et autres n'ont pas été retenues dans l'analyse principale en raison d'une disponibilité partielle des données sur la période étudiée. 
+Les indicateurs hospitalisations, réanimations, décès et retours à domicile ont été privilégiés afin de garantir une cohérence temporelle sur l'ensemble de la période 2020–2023.

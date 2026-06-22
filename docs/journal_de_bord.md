@@ -115,4 +115,7 @@ Les zones urbaines fortement peuplées ont subi la plus forte pression hospitali
 - Analyse des moyennes annuelles des hospitalisations et des réanimations
 - Rédaction des conclusions métier
 - Validation des résultats avec contrôle de cohérence entre Python et Power BI.
-- quelques exemples de requêtes qui auraient pu être faites pour resortir les KPI en utilisant SQL
+- quelques exemples de requêtes qui auraient pu être faites pour resortir les KPI en utilisant SQL.
+
+
+Les variables HospConv, SSR_USLD et autres n'ont pas été retenues dans l'analyse principale en raison d'une disponibilité partielle des données sur la période étudiée. Les indicateurs hospitalisations, réanimations, décès et retours à domicile ont été privilégiés afin de garantir une cohérence temporelle sur l'ensemble de la période 2020–2023.
