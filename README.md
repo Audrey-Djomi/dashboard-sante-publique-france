@@ -21,19 +21,19 @@ Le dossier SQL a été préparé pour une future industrialisation du projet et 
 
 ## Dashboard - Vue d'ensemble
 
-![Vue d'ensemble](images/dashboard_vue_ensemble.png)
+![Vue d'ensemble](images/dashboard_vue_ensemble.png.png)
 
 ## Dashboard - Analyse géographique
 
-![Analyse géographique](images/dashboard_geographie.png)
+![Analyse géographique](images/dashboard_geographie.png.png)
 
 ## Dashboard - Sexe
 
-![Analyse selon le sexe](images/dashboard_sexe.png)
+![Analyse selon le sexe](images/dashboard_sexe.png.png)
 
 ## Dashboard - Analyse temporelle
 
-![Analyse temporelle](images/dashboard_temporel.png)
+![Analyse temporelle](images/dashboard_temporel.png.png)
 
 ##  Dashboard complet disponible dans le dossier docs.
 
