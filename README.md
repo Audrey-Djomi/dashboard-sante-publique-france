@@ -9,6 +9,7 @@ Analyser des données de santé publique françaises afin de construire des indi
 - Pandas
 - SQL
 - Power BI
+Le dossier SQL a été préparé pour une future industrialisation du projet et l'automatisation des indicateurs.
 
 ## KPIs
 
@@ -34,6 +35,7 @@ Analyser des données de santé publique françaises afin de construire des indi
 
 ![Analyse temporelle](images/dashboard_temporel.png)
 
+##  Dashboard complet disponible dans le dossier docs.
 
 ## Statut
 

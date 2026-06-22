@@ -115,3 +115,4 @@ Les zones urbaines fortement peuplées ont subi la plus forte pression hospitali
 - Analyse des moyennes annuelles des hospitalisations et des réanimations
 - Rédaction des conclusions métier
 - Validation des résultats avec contrôle de cohérence entre Python et Power BI.
+- quelques exemples de requêtes qui auraient pu être faites pour resortir les KPI en utilisant SQL
