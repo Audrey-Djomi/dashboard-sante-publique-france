@@ -103,3 +103,15 @@ Les zones urbaines fortement peuplées ont subi la plus forte pression hospitali
     - Répartition géographique des hospitalisations
     - Impact du Covid-19 selon le sexe
     - Comparaison des vagues épidémiques 
+
+## Jour 9: Suite Power BI - Ajout des dashboards dans le repertoire images
+- Création des tables analytiques
+- Construction de la page "Vue d'ensemble"
+- Création des KPI nationaux
+- Création des courbes d'évolution des hospitalisations et des réanimations
+- Construction de la page géographique
+- Identification des départements les plus touchés
+- Construction de la page temporelle
+- Analyse des moyennes annuelles des hospitalisations et des réanimations
+- Rédaction des conclusions métier
+- Validation des résultats avec contrôle de cohérence entre Python et Power BI.
