@@ -120,3 +120,19 @@ Les zones urbaines fortement peuplées ont subi la plus forte pression hospitali
 
 
 Les variables HospConv, SSR_USLD et autres n'ont pas été retenues dans l'analyse principale en raison d'une disponibilité partielle des données sur la période étudiée. Les indicateurs hospitalisations, réanimations, décès et retours à domicile ont été privilégiés afin de garantir une cohérence temporelle sur l'ensemble de la période 2020–2023.
+
+
+# Bilan du projet
+
+Ce projet m'a permis de :
+
+- Manipuler un dataset réel de Santé Publique France,
+- Réaliser une analyse exploratoire complète avec Pandas,
+- Nettoyer et transformer les données,
+- Construire des indicateurs métier,
+- Créer un dashboard Power BI,
+- Utiliser Git et GitHub pour le suivi du projet,
+- Rédiger une documentation technique et fonctionnelle.
+
+Compétences mobilisées :
+Python, Pandas, SQL, Power BI, Git, GitHub, Data Visualisation.
